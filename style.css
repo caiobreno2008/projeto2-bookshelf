@@ -1,0 +1,35 @@
+.menu-container {
+    padding: 1px;
+    margin-left: 100px;
+    margin-right: 100px;
+
+    text-align: center;
+}
+.sub-title{
+    padding: 5px;
+    margin-left: 150px;
+    margin-right: 150px;
+   text-align: center;
+}
+.img-web {
+width: 500px;
+margin-left: 700px;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    text-align: center;
+}
+.text H4{
+  background-color: black;
+  color: white;
+  border-radius: 80px;
+    text-align: center;
+    padding:30px auto;
+}
+.sub-baixo{
+    text-align: center;
+}
+.sub-sub{
+    text-align: center;
+}
