@@ -1,35 +1,49 @@
-.menu-container {
-    padding: 1px;
-    margin-left: 100px;
-    margin-right: 100px;
+.title {
+    text-align: center;
+}
 
+.body {
     text-align: center;
 }
-.sub-title{
-    padding: 5px;
-    margin-left: 150px;
-    margin-right: 150px;
-   text-align: center;
-}
-.img-web {
-width: 500px;
-margin-left: 700px;
-}
-img {
-    max-width: 100%;
-    height: auto;
+
+.ex-img {
     text-align: center;
+    width: 600px;
 }
-.text H4{
-  background-color: black;
-  color: white;
-  border-radius: 80px;
-    text-align: center;
-    padding:30px auto;
+
+.button-registration {
+    border-radius: 50px;
+    width: 120px;
+    height: 35px;
+    color: white;
+    background-color: black;
+    cursor: pointer;
 }
-.sub-baixo{
-    text-align: center;
+
+.genre-button {
+    border: none;
+    padding: 10px 20px;
+    margin: 5px;
+    border-radius: 20px;
+    background-color: #4a90e2;
+    color: white;
+    font-size: 14px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
 }
-.sub-sub{
+
+.more-button {
+    color: #ffffff;
+    background-color: black;
+    border-radius: 20px;
+    font-size: 14px;
+    cursor: pointer;
+    padding: 9px;
+}
+
+.footer {
     text-align: center;
+    color: #ffffff;
+    background-color: black;
+    font-size: 15px;
 }
