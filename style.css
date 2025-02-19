@@ -1,0 +1,49 @@
+.title {
+    text-align: center;
+}
+
+.body {
+    text-align: center;
+}
+
+.ex-img {
+    text-align: center;
+    width: 600px;
+}
+
+.button-registration {
+    border-radius: 50px;
+    width: 120px;
+    height: 35px;
+    color: white;
+    background-color: black;
+    cursor: pointer;
+}
+
+.genre-button {
+    border: none;
+    padding: 10px 20px;
+    margin: 5px;
+    border-radius: 20px;
+    background-color: #4a90e2;
+    color: white;
+    font-size: 14px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.more-button {
+    color: #ffffff;
+    background-color: black;
+    border-radius: 20px;
+    font-size: 14px;
+    cursor: pointer;
+    padding: 9px;
+}
+
+.footer {
+    text-align: center;
+    color: #ffffff;
+    background-color: black;
+    font-size: 15px;
+}
